@@ -1,5 +1,5 @@
 {
-  "name": "calendar-utils",
+  "name": "@le2xx/calendar-utils",
   "version": "0.10.1",
   "description": "Utility functions to generate views for calendars",
   "main": "bundles/calendar-utils.umd.js",
@@ -31,18 +31,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattlewis92/calendar-utils.git"
+    "url": "git+https://github.com/le2xx/calendar-utils.git"
   },
   "keywords": [
     "calendar",
     "utilities"
   ],
-  "author": "Matt Lewis",
+  "author": "Matt Lewis, le2xx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mattlewis92/calendar-utils/issues"
+    "url": "https://github.com/le2xx/calendar-utils/issues"
   },
-  "homepage": "https://github.com/mattlewis92/calendar-utils#readme",
+  "homepage": "https://github.com/le2xx/calendar-utils#readme",
   "devDependencies": {
     "@sinonjs/fake-timers": "^9.1.2",
     "@types/chai": "^4.3.1",
